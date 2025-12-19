@@ -1,14 +1,10 @@
 # 🩺 Breast Cancer Prediction Using Machine Learning
 
----
-
 ## 📌 Project Overview
 
 Breast cancer is one of the leading causes of cancer-related deaths among women globally. Although breast masses are common and often benign, especially in younger women, **early and accurate diagnosis** is critical for effective treatment and improved survival rates.
 
 This project applies **Machine Learning techniques** to enhance the prediction of breast cancer using diagnostic data. Both **supervised classification** and **unsupervised clustering** approaches are explored, combined with **feature reduction** and **hyperparameter tuning**, to achieve optimal predictive performance.
-
----
 
 ## 📊 Dataset Description
 
@@ -19,8 +15,6 @@ This project applies **Machine Learning techniques** to enhance the prediction o
   - Benign  
 
 The dataset contains numerical features extracted from digitized images of **fine needle aspirates (FNA)** of breast tissue, widely used in breast cancer diagnostic research.
-
----
 
 ## 🧠 Methodology
 
@@ -48,8 +42,6 @@ To reduce dimensionality and improve model generalization:
 - Hierarchical Clustering  
 - Mean Shift  
 
----
-
 ## 📈 Evaluation Metrics
 
 ### 📋 Classification Metrics
@@ -70,7 +62,6 @@ Used to evaluate unsupervised learning quality:
 - Adjusted Rand Index (ARI)  
 - Normalized Mutual Information (NMI)
 
----
 
 ## 🛠️ Technologies Used
 
@@ -82,10 +73,8 @@ Used to evaluate unsupervised learning quality:
   - Matplotlib  
   - Seaborn  
 
----
 
 ## 🎯 Conclusion
 
 This project highlights the potential of **Machine Learning** in assisting early breast cancer diagnosis. By integrating dimensionality reduction, hyperparameter optimization, and multiple learning algorithms, the study identifies models capable of delivering high predictive accuracy. These results demonstrate how data-driven solutions can support medical professionals in making informed diagnostic decisions.
 
----
